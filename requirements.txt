@@ -1,0 +1,5 @@
+pyTelegramBotAPI==4.12.0
+Pillow==10.0.0
+fpdf==1.7.2
+pillow-heif==0.13.0
+python-dotenv==1.0.0
